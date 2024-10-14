@@ -1,0 +1,11 @@
+# SolidWorks Temporary Files
+*.sldprt.~*
+*.sldasm.~*
+*.slddrw.~*
+*.sldprt.swp
+*.sldasm.swp
+*.slddrw.swp
+~$*.SLDDRW
+~$*.SLDPRT
+~$*.SLDASM
+._*
