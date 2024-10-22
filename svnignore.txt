@@ -1,0 +1,6 @@
+.git
+.gitattributes
+.gitignore
+.watchmanconfig
+autoGitCommit.ps1
+svnignore.txt
